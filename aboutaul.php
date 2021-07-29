@@ -53,7 +53,6 @@ font: courier;
 </div>
 <div class="maindiv">
   <div class="container">
- <h2>A project by TEIT Group Members:</h2>
 </div>
 </div>
 </body>
