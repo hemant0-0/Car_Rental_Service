@@ -1,2 +1,2 @@
 # Car_Rental_Service
-Xampp base project 
+HTML & PHP both langauge base project,
